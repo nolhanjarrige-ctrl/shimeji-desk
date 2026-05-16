@@ -6,8 +6,6 @@
 
 *Des personnages Arknights qui vivent sur ton bureau — parlent entre eux, jouent, dorment, et peuvent discuter avec toi.*
 
-<img width="1038" height="822" alt="image" src="https://github.com/user-attachments/assets/8af3ec95-05f7-489f-98f0-dffa1cb8164f" />
-
 [![PyQt6](https://img.shields.io/badge/PyQt6-6.4%2B-41cd52?style=flat-square)](https://pypi.org/project/PyQt6/)
 [![Windows](https://img.shields.io/badge/Windows-10%2F11-0078d4?style=flat-square&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
 [![License](https://img.shields.io/badge/License-MIT-a855f7?style=flat-square)](LICENSE)
