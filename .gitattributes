@@ -1,0 +1,7 @@
+# .gitattributes
+* text=auto eol=lf
+*.py   text eol=lf
+*.json text eol=lf
+*.md   text eol=lf
+*.xml  text eol=lf
+*.txt  text eol=lf
